@@ -1,8 +1,7 @@
 {
-	"name": "stoysnet/TradeNumbers.php",
-	"version": "1.0",
+	"name": "stoysnet/trade-numbers.php",
 	"description": "Trade Number classifier and validators. Supports EAN GTIN UPC-A and ISBN",
-	"license": "Simplified BSD",
+	"license": "BSD-2-Clause",
 	"authors": [
 		{
 			"name": "Gearbox Studios",
