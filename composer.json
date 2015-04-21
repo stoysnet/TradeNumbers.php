@@ -16,7 +16,7 @@
 		"php": ">=5.3.0"
 	},
 	"autoload": {
-		"classmap": [
+		"files": [
 			"TradeNumbers.php",
 			"GTIN.php",
 			"ISBN.php"
