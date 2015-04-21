@@ -17,7 +17,9 @@
 	},
 	"autoload": {
 		"classmap": [
-			"."
+			"TradeNumbers.php",
+			"GTIN.php",
+			"ISBN.php"
 		]
 	}
 }
