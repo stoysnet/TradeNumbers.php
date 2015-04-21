@@ -1,5 +1,5 @@
 {
-	"name": "stoysnet/trade-numbers.php",
+	"name": "stoysnet/trade-numbers",
 	"description": "Trade Number classifier and validators. Supports EAN GTIN UPC-A and ISBN",
 	"license": "BSD-2-Clause",
 	"authors": [
