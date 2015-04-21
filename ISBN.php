@@ -3,8 +3,6 @@
 namespace TradeNumbers;
 use \Exception;
 
-require_once "GTIN.php";
-
 class ISBN {
 	public static function isbn10to13($digits) {
 		$noCheck = '978' . substr(strval($digits), 0, 9);

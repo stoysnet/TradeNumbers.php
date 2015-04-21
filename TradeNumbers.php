@@ -1,9 +1,6 @@
 <?php
 namespace TradeNumbers;
 
-require_once "GTIN.php";
-require_once "ISBN.php";
-
 function classify($digits) {
 	$digits = strval($digits);
 	$notValid = function () {
